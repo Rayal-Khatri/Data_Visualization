@@ -45,4 +45,23 @@ This project explores **music consumption trends** using **data visualization to
 ---
 
 # 📈 Power BI Dashboard  
-*(Coming soon...)*  
+
+---
+## Sales Data Visualization 📊💰
+
+This project provides **insights into cars sales trends and performance metrics** using data visualization tools. 
+The goal is to analyze **car sales patterns, customer behavior, and revenue trends** for better decision-making.
+![Sales](https://drive.google.com/uc?export=view&id=1sT-HRq7V6o07mGxGAxZj9uWzDSKp_Rmf)
+
+
+### 📌 Overview  
+- **Dataset:** Sales transaction data.  
+- **Goal:** To visualize and analyze sales trends, customer segments, and revenue growth.
+ 
+### **Key Insights:**  
+- 📈 **Revenue Trends** – Track total sales over time.  
+- 🏆 **Top-Selling Products** – Identify high-performing products.  
+- 🌍 **Regional Sales Performance** – Sales distribution by location.  
+- 📊 **Customer Segments** – Analyze buying patterns across different customer groups.  
+
+[🔗 **View Tableau Dashboard Here:**](https://github.com/Rayal-Khatri/Data_Visualization/tree/main/PowerBI/CarSale)
