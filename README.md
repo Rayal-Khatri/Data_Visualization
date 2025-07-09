@@ -21,26 +21,20 @@ The goal is to analyze **sales patterns, customer behavior, and revenue trends**
 
 ---
 
-## People's Music 
-This project explores **music consumption trends** using **data visualization tools** to uncover insights about listener behavior, popular genres, and user preferences.
-![Dashboard](https://drive.google.com/uc?export=view&id=1S7IH1ngxfe3BD_kS8lqs7iIxITjPPumI)
+## HR Dashboard 
+This project explores **employee records** using **tableau** to uncover insights about employee information.
+![HR Dashboard](https://drive.google.com/uc?export=view&id=1MXzXwA5Un9zslO8GU81oidyX4czippiR)
+
 
 ### 📌 Overview  
-- **Dataset:** Music listening data of individuals.  
+- **Dataset:** Generated using **Faker Library**.  
 - **Goal:** To analyze and visualize music trends, listening habits, and preferences.  
 
-### **Key Insights:**  
-- 🎼 **Popular Genres** – Most listened-to music categories.  
-- ⏳ **Listening Duration** – Average time spent on different genres.  
-- 🌍 **Regional Trends** – Geographic distribution of music preferences.  
-- 🔄 **User Behavior** – Frequency and patterns of song repetitions.  
-
 ### **Dashboard Features:**  
-- **Interactive Filters:** Select specific genres, time ranges, or user demographics.  
-- **Trend Analysis:** Compare music popularity over time.  
+- **Interactive Filters:** Select specific hiredate, gender, or user demographics.  
 - **Data Visualization:** Charts, heatmaps, and bar graphs for easy interpretation.  
 
-[🔗 **View Tableau Dashboard Here:**](https://public.tableau.com/app/profile/rayal.khatri/viz/Music_17345235869430/PeoplesMusic) 
+[🔗 **View Tableau Dashboard Here:**]([https://public.tableau.com/app/profile/rayal.khatri/viz/Music_17345235869430/PeoplesMusic](https://public.tableau.com/app/profile/rayal.khatri/viz/HR_Management_17520626656360/HRSummary)) 
 
 ---
 
