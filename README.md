@@ -58,4 +58,4 @@ The goal is to analyze **car sales patterns, customer behavior, and revenue tren
 - 🌍 **Regional Sales Performance** – Sales distribution by location.  
 - 📊 **Customer Segments** – Analyze buying patterns across different customer groups.  
 
-[🔗 **View Tableau Dashboard Here:**](https://github.com/Rayal-Khatri/Data_Visualization/tree/main/PowerBI/CarSale)
+[🔗 **PowerBI(PBIX) File Here:**](https://github.com/Rayal-Khatri/Data_Visualization/tree/main/PowerBI/CarSale)
