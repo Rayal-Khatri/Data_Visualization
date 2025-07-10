@@ -34,7 +34,7 @@ This project explores **employee records** using **tableau** to uncover insights
 - **Interactive Filters:** Select specific hiredate, gender, or user demographics.  
 - **Data Visualization:** Charts, heatmaps, and bar graphs for easy interpretation.  
 
-[🔗 **View Tableau Dashboard Here:**]([https://public.tableau.com/app/profile/rayal.khatri/viz/Music_17345235869430/PeoplesMusic](https://public.tableau.com/app/profile/rayal.khatri/viz/HR_Management_17520626656360/HRSummary)) 
+[🔗 **View Tableau Dashboard Here:**](https://public.tableau.com/app/profile/rayal.khatri/viz/HR_Management_17520626656360/HRSummary)
 
 ---
 
